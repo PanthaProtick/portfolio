@@ -66,10 +66,10 @@
   background-color: #BBFBFF !important;
 }
 #works > h1 {
-  font-weight: 900;
+  font-weight: 600;
   font-family: "Libre Baskerville", serif !important;
   color: #5409DA !important;
-  font-size: 64px !important;
+  font-size: 48px !important;
 }
 #works h5,
 p {
@@ -89,22 +89,19 @@ p {
   padding-top: 150px;
   padding-bottom:150px;
 }
-#contact>*{
-  margin-right: 100px;
-  margin-left: 100px;
-}
-#contact>h1{
+
+#contact h1{
   font-family: "Libre Baskerville", serif !important;
   color: #220357 !important;
   font-size: 64px !important;
 }
-#contact>p{
+#contact p{
 
   font-family: "Lato", sans-serif !important;
   font-size: 16px !important;
   color: #4e71ff !important;
 }
-#contact>li{
+#contact li{
   font-family: "Lato", sans-serif !important;
   font-size: 16px !important;
   color:black !important;
